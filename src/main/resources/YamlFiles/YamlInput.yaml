@@ -1,0 +1,7 @@
+Context:
+  Field:
+    IStrategy: IStrategy
+  Method:
+    algorithm: String
+  Interface: {
+    }

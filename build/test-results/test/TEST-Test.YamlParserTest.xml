@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test.YamlParserTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-02-27T22:10:16" hostname="DESKTOP-QVI9PDE" time="0.044">
+  <properties/>
+  <testcase name="testClassModelMethods" classname="Test.YamlParserTest" time="0.036"/>
+  <testcase name="testClassModelInterface" classname="Test.YamlParserTest" time="0.001"/>
+  <testcase name="testClassModelName" classname="Test.YamlParserTest" time="0.001"/>
+  <testcase name="testClassModelFields" classname="Test.YamlParserTest" time="0.001"/>
+  <testcase name="testClassModelMethods" classname="Test.YamlParserTest" time="0.001"/>
+  <testcase name="testClassModelInterface" classname="Test.YamlParserTest" time="0.001"/>
+  <testcase name="testClassModelName" classname="Test.YamlParserTest" time="0.001"/>
+  <testcase name="testClassModelFields" classname="Test.YamlParserTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

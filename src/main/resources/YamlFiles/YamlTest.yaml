@@ -1,0 +1,8 @@
+MyClass:
+  Field: {
+  }
+  Method:
+    getName: String
+    getPrice: Float
+  Interface: {
+  }
