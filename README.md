@@ -92,7 +92,7 @@ This application allows the users to create java source files for a design patte
 
 #### **Menu**
 
-![](https://bitbucket.org/rahulromilkeswani/rahul_romilkeswani_hw1/raw/211c748b74090eee6ea0fc94d54688a089e24bc5/Screenshots/menu.png)
+![](https://github.com/rahulromilkeswani/design-pattern-code-generator/blob/master/Screenshots/menu.png)
 
 ##### Getting Inputs for the pattern
 
@@ -100,14 +100,13 @@ This application allows the users to create java source files for a design patte
 
 ##### **Generated Source Files**
 
-![](https://bitbucket.org/rahulromilkeswani/rahul_romilkeswani_hw1/raw/211c748b74090eee6ea0fc94d54688a089e24bc5/Screenshots/Strategy/Screen%20Shot%202020-02-26%20at%2022.59.18.png)
+![](https://github.com/rahulromilkeswani/design-pattern-code-generator/blob/master/Screenshots/Strategy/Screen%20Shot%202020-02-26%20at%2022.59.18.png)
 
-![](https://bitbucket.org/rahulromilkeswani/rahul_romilkeswani_hw1/raw/211c748b74090eee6ea0fc94d54688a089e24bc5/Screenshots/Strategy/Screen%20Shot%202020-02-26%20at%2022.59.37.png)
+![](https://github.com/rahulromilkeswani/design-pattern-code-generator/blob/master/Screenshots/Strategy/Screen%20Shot%202020-02-26%20at%2022.59.37.png)
 
-![](https://bitbucket.org/rahulromilkeswani/rahul_romilkeswani_hw1/raw/211c748b74090eee6ea0fc94d54688a089e24bc5/Screenshots/Strategy/Screen%20Shot%202020-02-26%20at%2022.59.58.png)
+![](https://github.com/rahulromilkeswani/design-pattern-code-generator/blob/master/Screenshots/Strategy/Screen%20Shot%202020-02-26%20at%2022.59.58.png)
 
-![](https://bitbucket.org/rahulromilkeswani/rahul_romilkeswani_hw1/raw/211c748b74090eee6ea0fc94d54688a089e24bc5/Screenshots/Strategy/Screen%20Shot%202020-02-26%20at%2023.00.15.png)
-
+![](https://github.com/rahulromilkeswani/design-pattern-code-generator/blob/master/Screenshots/Strategy/Screen%20Shot%202020-02-26%20at%2023.00.15.png)
 Screenshots of runs for all patterns can be found in the Screenshots directory. 
 
 ### Limitations
